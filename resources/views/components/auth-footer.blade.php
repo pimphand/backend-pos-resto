@@ -1,3 +1,3 @@
-  <div class="simple-footer">
-      Copyright &copy; JAGOFLUTTER 2024
-  </div>
+<div class="simple-footer">
+    Copyright &copy; DMPT 2024
+</div>

@@ -4,7 +4,9 @@ use App\Http\Controllers\ProductController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\CategoryController;
-use Auth;
+use Illuminate\Support\Facades\Auth;
+
+// use Auth;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
