@@ -18,7 +18,7 @@ use Illuminate\Support\Facades\Auth;
 |
 */
 
-Auth::loginUsingId(21);
+Auth::loginUsingId(2);
 Route::get('/', function () {
     return view('pages.auth.login');
 });
